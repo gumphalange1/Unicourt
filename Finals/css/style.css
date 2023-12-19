@@ -1,0 +1,86 @@
+.w-450 {
+	width: 450px;
+}
+.vh-100 {
+	min-height: 100vh;
+}
+.h4 {
+text-align: center;
+}
+
+.btn_about {
+position:fixed;
+bottom: 60px;
+right: 490px;
+border-radius:40%;
+background-color: #B09239;
+  border: none;
+  color:white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btn_about_holder {
+position:fixed;
+bottom: 20px;
+right: 20px;
+}
+
+
+.search_categories{
+width: 100%;
+font-size: 13px;
+  padding: 10px 8px 10px 14px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  position: relative;
+}
+
+.button {
+  background-color: #B09239;
+  border: none;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+.body {
+background-image: url('<?php echo $wall_paper;?>');
+height: 100%;
+width: 100%;
+/* extended code */
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+}
+
+.form1 {
+background-color: #EDD89A;
+color: #000000;
+opacity: .90;
+width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+border-radius: 4px;
+box-shadow: 5px 5px 1px white;
+}
+</style>
+<style>
+.w-450 {
+	width: 450px;
+}
+.vh-100 {
+	min-height: 100vh;
+}
+

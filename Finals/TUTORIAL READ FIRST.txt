@@ -1,0 +1,33 @@
+1. Download XAMPP app on laptop/pc
+
+2. Download APACHE and MYSQL only
+
+3. Open XAMPP app
+
+4. Start APACHE and MYSQL
+
+5. Download Finals Folder or Final.zip
+
+5. Go to C:\xampp\htdocs on MY PC
+
+6. Copy FInals folder and PASTE (C:\xampp\htdocs)
+
+7. Create Database
+
+8. Open Google Chrome type http://localhost/phpmyadmin/ or localhost/phpmyadmin
+
+9. On the left side panel find new then click
+
+10. Next Find "SQL" on the top panel, then click you will see a blank page 
+
+11. Go to "Finals Folder" fiind "mysql database" folder open "ccdi_bsit_db"
+
+12. Ctrl +A, Select All, Copy  then paste it on the blank page you saw on "SQL"
+
+13. Scroll down, Find the button "Go" then click.
+
+14. If u see no errors, proceed to a new google chrome tab
+
+15. Type http://localhost/finals/home.php
+
+16. After creating new user, open localhost/phpmyadmin check for the data you saved
